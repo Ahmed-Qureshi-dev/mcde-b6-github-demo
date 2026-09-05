@@ -38,6 +38,9 @@ WHERE list_price BETWEEN 500 AND 1500;
 SELECT DISTINCT city
 FROM sales.customers;
 
+
+
+
 --task 8
 SELECT *
 FROM sales.orders
