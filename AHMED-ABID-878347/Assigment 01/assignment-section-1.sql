@@ -28,10 +28,6 @@ WHERE YEAR(order_date) = 2017;
 SELECT *
 FROM production.products
 WHERE product_name LIKE '%Trek%';
-
-
-
-
 --task 6 
 SELECT *
 FROM production.products
